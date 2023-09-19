@@ -1,2 +1,2 @@
-# CODSOFT-
+# CODSOFT
 Java Programming Tasks
